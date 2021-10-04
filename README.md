@@ -32,7 +32,7 @@ Here are some ideas to get you started:
   <img align="center" alt="Mar-git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="Mar-bitbucket" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bitbucket/bitbucket-original.svg">
   <img align="center" alt="Mar-vs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-original.svg">  
-  <img align="center" alt="Mar-vscode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualcode/visualcode-original.svg">  
+  <img align="center" alt="Mar-vscode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudiocode/visualstudiocode-original.svg">  
 </div>
   
   ##
